@@ -15,4 +15,7 @@ Self-Collision and Game Restart: The game ends when the snake collides with itse
 
 These features enhance the traditional Snake game by adding complexity, strategy, and replayability.
 
-![Snake Game](https://github.com/user-attachments/assets/625ab405-41cf-4b6a-8b75-bb5baf24b39a)
+
+https://github.com/user-attachments/assets/4cf6052d-904e-4886-816e-a2972728df9b
+
+

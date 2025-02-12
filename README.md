@@ -1,6 +1,6 @@
 # SnakeGame
 
-This project is an enhanced Snake game using Java Swing and AWT, incorporating key features that elevate the gameplay experience.🎮🐍
+This project is an enhanced Snake game using Java Swing and AWT, incorporating key features that elevate the gameplay experience. 🎮
 
 ### Highlights
 
@@ -16,11 +16,11 @@ This project is an enhanced Snake game using Java Swing and AWT, incorporating k
 
 - **Level Advancement 📈**: Players progress through levels as their score reaches multiples of 10, with difficulty increasing at each stage.
 
-- **Score Display 📊**: The score is prominently displayed at the top of the screen.
+- **Score Display**: The score is prominently displayed at the top of the screen.
 
-- **Self-Collision and Game Restart 💥**: If the snake collides with itself, the game ends, but players can restart instantly by pressing any key.
+- **Self-Collision and Game Restart**: If the snake collides with itself, the game ends, but players can restart instantly by pressing any key.
 
-These features bring added complexity, strategy, and replayability to the classic Snake game, making it both challenging and fun.🔥
+These features bring added complexity, strategy, and replayability to the classic Snake game, making it both challenging and fun.
 
 
 https://github.com/user-attachments/assets/4cf6052d-904e-4886-816e-a2972728df9b
